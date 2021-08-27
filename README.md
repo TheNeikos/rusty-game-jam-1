@@ -1,4 +1,4 @@
-# rusty-game-jame-1
+# Rusty Jam 1 -- Meltdown
 
 ![grafik](https://user-images.githubusercontent.com/1631166/131052321-6e423525-3512-4e40-9105-20398f4ad4e9.png)
 
