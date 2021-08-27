@@ -1,0 +1,16 @@
+[package]
+name = "rusty-game-jam-1"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.43"
+benimator = { git = "https://github.com/TheNeikos/benimator.git", branch = "bevy-track" }
+bevy = { git = "https://github.com/bevyengine/bevy.git" }
+bevy-spicy-ldtk = { git = "https://github.com/TheNeikos/bevy-spicy-ldtk.git" }
+bevy_simple_tilemap = { git = "https://github.com/TheNeikos/bevy_simple_tilemap.git", branch = "bevy-main" }
+bevy_spicy_aseprite = { git = "https://github.com/TheNeikos/bevy-spicy-aseprite.git" }
+ldtk2 = "0.3.0"
+rand = "0.8.4"
